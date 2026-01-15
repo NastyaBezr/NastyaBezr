@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @NastyaBezr. My name is Nastya Bezrukova. I am 16 years old in 2024. I'm just starting my career as a programmer.
-  
-- 👀 I am interested in developing programs in a wide variety of programming languages. However, now I only know c++ and the basic libraries for it:(
-  
-- 🌱 At the moment, I am practicing writing code for Olympiad tasks in c++, while doing other interesting projects in html/unity and others.
-  
-- 💞️ I would like to be an intern and look at the work of more professional programmers, while learning this craft at the same time.
-  
-- 📫 To contact me, you can write to this email: number1rus@mail.ru
- 
-- 😄 A little more about me: I am only 16 years old (as of 08/15/2024). I really want to develop in programming and try something new. If you have any advice for me, please email me definitely!
+- 👋 Hi, I’m @NastyaBezr. My name is Nastya Bezrukova. I am 17 years old in 2025. I'm just starting my career as a programmer.
+- Now I working сyber security, trying to learn english grammar...
+- In 2026 i finish school
+- 
+- 👋 Привет! Я @NastyaBezr. Меня зовут Настя Безрукова. Мне 17 лет в 2025-ом году. Я только начинаю свою карьеру программиста
+- Сейчас я работаю в сфере кибербезопасности, стараюсь учить грамматику английского языка...
+- В 2026 году я заканчиваю школу
   
 
 <!---
